@@ -1,0 +1,5 @@
+- A small script that makes your terminal 'snow'
+- Merry Christmas
+- author: lightblue
+- date: 2023-12-25
+- inspired by Engineer Man from https://www.youtube.com/watch?v=_chP0a4PMTM
